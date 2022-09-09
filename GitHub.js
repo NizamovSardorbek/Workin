@@ -17,4 +17,12 @@
 // 1 git init 
 // 2 git remote add origin https://github.com/SardorbekDevelop/Workin.git
 // 3 git remote -v
-// 4 git add .git  
+// 4 git add .
+// 5 git commit -m 'comment'
+
+// Repository 
+// 1 git init 
+// 2 git remote add origin https://github.com/SardorbekDevelop/Workin.git
+// 3 git remote -v
+// 4 git add .
+// 5 git commit -m 'comment'
