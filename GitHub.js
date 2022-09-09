@@ -9,4 +9,12 @@
 // 2 git commit -m 'darslik'
 // git push origin master yani branchni nomi yoziladi
 
-//
+
+// Pull  
+// 1- git pul origin branchname // Pull  
+
+// Repository 
+// 1 git init 
+// 2 git remote add origin https://github.com/SardorbekDevelop/Workin.git
+// 3 git remote -v
+// 4 git add .git  
