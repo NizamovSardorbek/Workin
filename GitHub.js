@@ -29,3 +29,4 @@
 
 
 // gut pull origin (navbar) yani branchdan branchga malumotni olish uchun shuni yozsak bishqa branchdagi maluotqmzni hammasi    masterga otadi 
+
